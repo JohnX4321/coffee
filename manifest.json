@@ -1,7 +1,8 @@
 {
   "name": "Coffees",
   "short_name": "PWACoffee",
-  "start_url": "https://johnx4321.github.io/coffee/index.html",
+  "start_url": "./",
+  "scope": ".",
   "display": "standalone",
   "background_color": "#fdfdfd",
   "theme_color": "#db4938",
