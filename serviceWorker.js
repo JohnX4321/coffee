@@ -13,6 +13,13 @@ const assets = [
     "/images/coffee7.jpg",
     "/images/coffee8.jpg",
     "/images/coffee9.jpg",
+    '/images/icon-72x72.png',
+    '/images/icon-96x96.png',
+    '/images/icon-128x128.png',
+    '/images/icon-144x144.png',
+    '/images/icon-192x192.png',
+    '/images/icon-384x384.png',
+    '/images/icon-512x512.png'
 ]
 
 self.addEventListener("install", installEvent => {
